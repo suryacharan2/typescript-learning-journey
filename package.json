@@ -1,0 +1,18 @@
+{
+  "name": "typescript-learning-journey",
+  "version": "1.0.0",
+  "description": "My TypeScript learning journey during internship - daily notes, examples and mini projects",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "ts-node",
+    "watch": "tsc --watch"
+  },
+  "keywords": ["typescript", "learning", "internship"],
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.4.0",
+    "ts-node": "^10.9.2",
+    "@types/node": "^20.11.0"
+  }
+}
