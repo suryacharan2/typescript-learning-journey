@@ -131,3 +131,5 @@ This is a personal learning repository, but suggestions and corrections are welc
 ## License
 
 This project is licensed under the MIT License.
+
+# typescript-learning-journey
